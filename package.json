@@ -18,7 +18,7 @@
   "dependencies": {
     "discovery-swarm": "^4.0.1",
     "inherits": "^2.0.1",
-    "signalhub": "^4.7.4",
+    "signalhub": "^4.8.0",
     "webrtc-swarm": "^2.6.0"
   }
 }
